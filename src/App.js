@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { BarChart } from "./components/BarChart";
 import { ScatterChart } from "./components/ScatterChart";

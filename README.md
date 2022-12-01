@@ -51,12 +51,12 @@ If you see `application is running at localhost:3000 port`, then it is working f
 
 ## Screenshots
 
-<img width="929" alt="pic1" src="src\assets\pic1.png">
+<img width="929" alt="pic1" src="src\assets\scatterChart.PNG">
 
 </br>
 </br>
 
-<img width="929" alt="pic2" src="src\assets\pic2.png">
+<img width="929" alt="pic2" src="src\assets\BarChart.PNG">
 
 ## Author
 
